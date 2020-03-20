@@ -16,7 +16,8 @@
 
 1. Click on the upload icon on AppBar.
 2. Choose a file.
-3. Click on refresh button to see updated directory listing.
+3. Uploading started.
+4. Click on refresh button to see updated directory listing.
 
 ### Download File/Folder
 
