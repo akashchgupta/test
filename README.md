@@ -2,7 +2,6 @@
 
 ### Feature
 
-- This app doesn't use OAuth. So you need your "Access Token" from Dropbox App console.
 - It lists all the files and folder in a given directory.
 - We an explore inside a directory by pressing the Directory.
 - We can dowload files by pressing the downlaod icon on right of each file.
@@ -11,6 +10,7 @@
   -- Refresh: Refresh the current directory listing.
   -- Home: Navigate to the home directory.
   -- Upload: Upload a file and press Refresh button to see updated listing.
+- This app doesn't use OAuth. So you need your "Access Token" from Dropbox App console.
 
 ### Upload File
 
