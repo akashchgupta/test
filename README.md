@@ -32,8 +32,10 @@
 
 1. git clone https://github.com/akashchgupta/test.git
 2. npm install
-3. Add your ACCESS_TOKEN in './utils/config.js'
-4. npm run android
+3. react-native link react-native-document-picker
+4. react-native link rn-fetch-blob
+5. Add your ACCESS_TOKEN in './utils/config.js'
+6. npm run android
 
 ### TODO
 
