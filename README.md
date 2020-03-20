@@ -28,6 +28,13 @@
 
 [Link](https://raw.githubusercontent.com/akashchgupta/test/master/android/app-release.apk 'DBCloud Sync')
 
+### Build from source:
+
+1. git clone https://github.com/akashchgupta/test.git
+2. npm install
+3. Add your ACCESS_TOKEN in './utils/config.js'
+4. npm run android
+
 ### TODO
 
 - Implement stack navigation.
