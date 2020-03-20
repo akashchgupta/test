@@ -1,6 +1,6 @@
 # DBCloud Sync - A Dropbox Client Made Completely in React Native.
 
-### Feature
+### Features
 
 - It lists all the files and folder in a given directory.
 - We an explore inside a directory by pressing the Directory.
